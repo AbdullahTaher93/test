@@ -19,6 +19,8 @@ import static org.junit.Assert.*;
 public class PopulationTest {
      Population poptest;
     public PopulationTest() {
+        testPrintarray();
+        System.out.println("abdullah");
     }
     
     @BeforeClass
