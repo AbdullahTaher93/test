@@ -44,7 +44,7 @@ public class PopulationTest {
     /**
      * Test of Printarray method, of class Population.
      */
-    @Test
+   
     public void testPrintarray() {
         System.out.println("Printarray");
         
